@@ -2,7 +2,7 @@
 
 ## About this application
 
-This application is created by MD INZAMUL HAQUE. This is a simple tailor shop management system. <br>
+A simple RESTApi sample on laravel5.4 with Test Driven Development and Token Authentication. <br>
 ##### Framework: Laravel 5.4
 ##### Language : PHP 5.6
 
