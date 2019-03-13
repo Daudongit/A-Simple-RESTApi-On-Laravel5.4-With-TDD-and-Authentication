@@ -1,4 +1,4 @@
-# A Simple RESTApi On Laravel5.4 With TDD and Authentication
+# A Simple RESTApi On Laravel5.4 With TDD and Auth
 
 ## About this application
 
